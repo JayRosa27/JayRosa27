@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @JayRosa27
+- 👀 I’m interested in software engineering, self-improvement, and creative projects.
+- 🌱 I’m currently learning Python, exploring Agile methodologies, and working on various personal development projects.
+- 💞️ I’m looking to collaborate on open-source software, personal growth challenges, and educational content.
+- 📫 How to reach me ... You can reach me via email at JayTRosales@hotmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I drive a manual car, enjoy modifying it, and love learning new things along the way!
